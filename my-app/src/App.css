@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 20rem;
+  /* font-size: 1.5rem; */
+  font-family: "League Spartan", serif;
+}
+
+.verse-input {
+  height: 1.5rem;
+  width: 20rem;
+  margin: 0.8rem 0;
+  font-size: 1.2rem;
+  font-family: "League Spartan", serif;
+  padding: 0.5rem;
+}
+
+.text-input {
+  height: 10rem;
+  width: 20rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.1rem;
+  font-family: "League Spartan", serif;
+  padding: 0.5rem;
+}
+
+.verify-button {
+  width: 10rem;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
