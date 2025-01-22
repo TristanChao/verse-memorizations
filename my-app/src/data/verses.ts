@@ -25,3 +25,13 @@ verses.set(
   'Matt 16:24-25',
   "Then Jesus said to His disciples, 'If anyone wishes to come after Me, he must deny himself, and take up his cross and follow Me. For whoever wishes to save his life will lose it; but whoever loses his life for My sake will find it.'"
 )
+
+verses.set(
+  '1 Cor 6:12',
+  'All things are lawful for me, but not all things are profitable. All things are lawful for me, but I will not be mastered by anything.'
+)
+
+verses.set(
+  'Heb 12:11',
+  'All discipline for the moment seems not to be joyful, but sorrowful; yet to those who have been trained by it, afterwards it yields the peaceful fruit of righteousness.'
+)
