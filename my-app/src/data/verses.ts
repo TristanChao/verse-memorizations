@@ -3,26 +3,22 @@ export const verses = new Map();
 
 verses.set(
   '2 Cor 5:17',
-  'Therefore, if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come.'
+  "Therefore, if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come."
 );
 
 verses.set(
   'Gal 2:20',
-  `I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; 
-  and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me.`
+  "I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me."
 )
 
 verses.set(
   'Rom 12:1-2',
-  `Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, 
-  acceptable to God, which is your spiritual service of worship. 
-  And do not be conformed to this world, but be transformed by the renewing of your mind, 
-  so that you may prove what the will of God is, that which is good and acceptable and perfect.`
+  "Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect."
 )
 
 verses.set(
   '1 Jhn 4:4',
-  'You are from God, little children, and have overcome them; because greater is He who is in you than he who is in the world.'
+  "You are from God, little children, and have overcome them; because greater is He who is in you than he who is in the world."
 )
 
 verses.set(
@@ -32,18 +28,15 @@ verses.set(
 
 verses.set(
   'Matt 16:24-25',
-  `Then Jesus said to His disciples, 
-  'If anyone wishes to come after Me, he must deny himself, and take up his cross and follow Me. 
-  For whoever wishes to save his life will lose it; but whoever loses his life for My sake will find it.'`
+  "Then Jesus said to His disciples, 'If anyone wishes to come after Me, he must deny himself, and take up his cross and follow Me. For whoever wishes to save his life will lose it; but whoever loses his life for My sake will find it.'"
 )
 
 verses.set(
   '1 Cor 6:12',
-  'All things are lawful for me, but not all things are profitable. All things are lawful for me, but I will not be mastered by anything.'
+  "All things are lawful for me, but not all things are profitable. All things are lawful for me, but I will not be mastered by anything."
 )
 
 verses.set(
   'Heb 12:11',
-  `All discipline for the moment seems not to be joyful, but sorrowful; yet to those who have been trained by it, 
-  afterwards it yields the peaceful fruit of righteousness.`
+  "All discipline for the moment seems not to be joyful, but sorrowful; yet to those who have been trained by it, afterwards it yields the peaceful fruit of righteousness."
 )
