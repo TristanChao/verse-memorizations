@@ -17,6 +17,16 @@ verses.set(
 )
 
 verses.set(
+  'John 14:21',
+  "He who has My commandments and keeps them is the one who loves Me; and he who loves Me will be loved by My Father, and I will love him and will disclose Myself to him."
+)
+
+verses.set(
+  'Joshua 1:8',
+  "This book of the law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it; for then you will make your way prosperous, and then you will have success."
+)
+
+verses.set(
   '1 Jhn 4:4',
   "You are from God, little children, and have overcome them; because greater is He who is in you than he who is in the world."
 )
